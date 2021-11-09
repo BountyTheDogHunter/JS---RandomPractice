@@ -26,4 +26,4 @@ function myHalfFunction(num) {
 }
 
 newHalvedArray.forEach((element) => alert(element));
-// alert(total2);
+// alert(newHalvedArray[2]);
